@@ -111,11 +111,4 @@ DELETE	/api/products/:id	Delete product	✅ Yes
 <img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/1e070643-bb45-47c5-8ae3-fc5acc124559" />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🏆 Internship Acknowledgement
-
-This project was developed as part of my Codveda Technologies Internship.
-Special thanks to Codveda for providing guidance and project requirements.
-
-Hashtags:
-#CodvedaJourney #CodvedaExperience #FutureWithCodveda #CodvedaAchievements #CodvedaProjects
 
